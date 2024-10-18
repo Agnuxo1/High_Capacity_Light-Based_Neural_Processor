@@ -31,6 +31,14 @@ The current implementation provides a proof-of-concept for the light-based neura
 - WebGL Shaders: Vertex and fragment shaders that simulate the optical properties and visualize the neural state.
 - Texture-based Data Storage: Uses WebGL textures to store and manipulate the neural state and word data.
 
+## Quick Start
+
+Experience the Holographic Neural Network in action:
+
+[![Open in v0.dev](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThekLn5dFXm6sKrFe7SRgELQspSJzxhJOlKg&s)](https://v0.dev/chat/OLxMRBZyZmW?b=b_eVXRcG1LiaH)
+
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/edit/sb1-xoe37d) 
+
 ## Usage
 
 To run the project:
